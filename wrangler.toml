@@ -1,7 +1,7 @@
 name = "medizin2"
 compatibility_date = "2026-07-19"
 
-# Static-only site — no server-side Worker code, just the built HTML.
+## Static-only site — no server-side Worker code, just the built HTML.
 [assets]
 directory = "dist"
 not_found_handling = "single-page-application"
