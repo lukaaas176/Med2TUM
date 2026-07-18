@@ -1,4 +1,4 @@
-name = "medizin2-lernskript"
+name = "medizin2"
 compatibility_date = "2026-07-19"
 
 # Static-only site — no server-side Worker code, just the built HTML.
